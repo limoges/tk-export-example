@@ -1,0 +1,3 @@
+{
+    "apps-v1.Deployment-helloworld-deployment.yaml": "environments/default/main.jsonnet"
+}
